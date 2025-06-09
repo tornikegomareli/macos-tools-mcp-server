@@ -1,5 +1,7 @@
 # macOS Tools MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@tornikegomareli/macos-tools-mcp-server)](https://smithery.ai/server/@tornikegomareli/macos-tools-mcp-server)
+
 A MCP server for macOS that provides advanced system monitoring and file search capabilities.
 
 ## Table of Contents
@@ -25,7 +27,6 @@ A MCP server for macOS that provides advanced system monitoring and file search 
   - [Quick Test Prompts](#quick-test-prompts)
   - [Comprehensive Test Suite](#comprehensive-test-suite)
 - [Security Considerations](#security-considerations)
-- [Contributing](#contributing)
 - [License](#license)
 - [Future Enhancements](#future-enhancements)
 
@@ -44,6 +45,14 @@ A MCP server for macOS that provides advanced system monitoring and file search 
 - **Advanced Features**: Fuzzy matching, boolean operators, and file type filtering
 
 ## Installation
+
+### Installing via Smithery
+
+To install macOS Tools for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tornikegomareli/macos-tools-mcp-server):
+
+```bash
+npx -y @smithery/cli install @tornikegomareli/macos-tools-mcp-server --client claude
+```
 
 ### Prerequisites
 - macOS 10.15 or later

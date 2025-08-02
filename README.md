@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tornikegomareli-macos-tools-mcp-server-badge.png)](https://mseep.ai/app/tornikegomareli-macos-tools-mcp-server)
+
 # macOS Internal Tools MCP Server
 
 A MCP server for macOS that provides advanced system monitoring and file search capabilities.
